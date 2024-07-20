@@ -2,7 +2,7 @@
 
 ## Авторизация, login, logout, forms
 
-## frontend + db = bootstrap + postgres)
+## frontend + db = bootstrap + postgres
 
 ### postgres
 
