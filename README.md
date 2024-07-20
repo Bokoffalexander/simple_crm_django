@@ -1,6 +1,10 @@
 # CRM - django
 
-## postgres
+## Авторизация, login, logout, forms
+
+## frontend + db = bootstrap + postgres)
+
+### postgres
 
 $ sudo apt install postgresql
 
@@ -16,7 +20,7 @@ CREATE DATABASE django_db;
 
 $ psql -h localhost -U sano django_db
 
-## Bootstrap
+### Bootstrap
 
 https://getbootstrap.com/docs/5.3/getting-started/introduction/
 
