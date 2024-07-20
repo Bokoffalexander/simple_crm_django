@@ -1,5 +1,7 @@
 # CRM - django
 
+# http://109.71.247.68:8001 (кликабельно)
+
 ## Авторизация, login, logout, forms
 
 ## frontend + db = bootstrap + postgres
